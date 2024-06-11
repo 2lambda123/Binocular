@@ -82,7 +82,7 @@
     "@codemirror/state": "^6.2.0",
     "@codemirror/view": "^6.9.2",
     "@fortawesome/fontawesome-free": "^6.3.0",
-    "@grpc/grpc-js": "^1.8.12",
+    "@grpc/grpc-js": "^1.8.22",
     "@grpc/proto-loader": "^0.7.5",
     "@octokit/core": "^5.0.0",
     "@octokit/graphql": "^7.0.1",
